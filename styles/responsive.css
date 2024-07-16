@@ -1,0 +1,9 @@
+/*데스크탑*/
+@media screen and (max-width:1400px){
+    header .left, header .right {display:none;} /* 줄이면 헤더 안보이게 만들기 */
+    main .link {padding:0 15px;}
+}
+/*테블릿*/
+@media screen and (max-width:1000px){}
+/*모바일*/
+@media screen and (max-width:648px){}
